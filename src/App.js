@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <h1>TESTING IF GIT IS WORKING CORRECTLY</h1>
+          <button> Hello World</button>
         </p>
         <a
           className="App-link"
